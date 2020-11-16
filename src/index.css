@@ -1,0 +1,191 @@
+body {
+	font-family: "Itim", cursive;
+	text-align: center;
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+}
+
+h1 {
+	color: whitesmoke;
+	background-color: blueviolet;
+	padding: 50px;
+	text-shadow: 0 2px 2px black;
+}
+
+h5 {
+	color: black;
+	background-color: whitesmoke;
+	border-radius: 2px;
+	padding: 5px;
+}
+h4 {
+	color: darkblue;
+	background-color: whitesmoke;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.Imgclass {
+	width: 100%;
+	padding: 10px;
+}
+
+.Fontclass {
+	color: cornsilk;
+	font-size: 20px;
+}
+
+
+.colorhhhhhhhh{
+background-color: cornflowerblue;
+}
+
+
+.cardo {
+	box-shadow: 1px 0 0 1px rgba(0, 0, 0, 0.1);
+	transition: 0.2s;
+	width: 430px;
+	display: inline-block;
+	padding: 50px;
+	cursor: pointer;
+}
+
+.cardo:hover {
+	box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.7);
+	padding: 30px;
+}
+
+.containero {
+	padding: 2px 16px;
+}
+
+.edit{
+padding: 10px;
+border-radius: 10px;
+border-color: violet;
+color: darkblue;
+margin-right: 50px;
+outline: red;
+width: 50%;
+
+}
+
+.add{
+border: none;
+background-color: blueviolet;
+color: white;
+padding: 5px;
+width: auto;
+border-radius:100%;
+border: none;
+outline: none;
+}
+
+.add:hover{
+border: none;
+background-color: rgb(255, 4, 87);
+color: white;
+padding: 5px;
+width: auto;
+border-radius:100%;
+border: none;
+outline: none;
+}
+
+.add:focus{
+border: none;
+color: white;
+padding: 5px;
+width: auto;
+border-radius:100%;
+border: none;
+outline: none;
+}
+
+.delete,.delete:focus
+{
+margin-left: 20px;
+border: none;
+color: whitesmoke;
+padding: 5px;
+width:auto;
+border-radius:100px;
+background-color:  blueviolet;
+border: none;
+outline: none;
+}
+
+.delete:hover
+{
+margin-left: 20px;
+border: none;
+color: whitesmoke;
+padding: 5px;
+width: auto;
+border-radius:100%;
+background-color:rgb(255, 4, 87);
+border: none;
+outline: none;
+}
+
+.back,.back:focus{
+border: none;
+background-color: blueviolet;
+color: white;
+padding: 5px;
+width: auto;
+border-radius:100%;
+border: none;
+outline: none;
+}
+
+.back:hover{
+border: none;
+background-color: brown;
+color: white;
+padding: 5px;
+width: auto;
+border-radius:100%;
+border: none;
+outline: none;
+}
+
+.display{
+border: none;
+background-color: transparent;
+color: blue;
+padding: 5px;
+width: auto;
+border: none;
+outline: none;
+font-size: 20px;
+text-align:center;
+margin-left:20px;
+}
+
+.display:hover{
+border: none;
+background-color: transparent;
+color: blue;
+padding: 5px;
+width: auto;
+border: none;
+outline: none;
+font-size: 20px;
+text-align:center;
+margin-left:20px;
+}
+
+.display:focus{
+border: none;
+background-color: transparent;
+color: blue;
+padding: 5px;
+width: auto;
+border: none;
+outline: none;
+font-size: 20px;
+text-align:center;
+margin-left:20px;
+}
